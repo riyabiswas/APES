@@ -1,0 +1,14 @@
+Username: riya
+
+Operating system: Linux
+
+OS distribution and version Description: Ubuntu 16.04.2 LTS
+
+Kernel version, release, kernel gcc version build and build time:
+Linux version 4.8.0-36-generic (buildd@lgw01-18) (gcc version 5.4.0 20160609 (Ubuntu 5.4.0-6ubuntu1~16.04.4) ) #36~16.04.1-Ubuntu SMP Sun Feb 5 09:39:57 UTC 2017
+
+System Architecture: x86_64
+
+File system memory information:
+ Filesystem Size Used Avail Use% Mounted on udev 2.0G 0 2.0G 0% /dev tmpfs 396M 6.1M 390M 2% /run /dev/sda1 46G 9.0G 34G 21% / tmpfs 2.0G 184K 2.0G 1% /dev/shm tmpfs 5.0M 4.0K 5.0M 1% /run/lock tmpfs 2.0G 0 2.0G 0% /sys/fs/cgroup tmpfs 396M 56K 396M 1% /run/user/1000
+
